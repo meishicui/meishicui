@@ -17,7 +17,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://bdct.chu.edu.tw">觀光學院學士班</a></td>
  <td><a href="https://bdct.chu.edu.tw/p/412-1092-2946.php?Lang=zh-tw">實習</a></td>
- <td><a href="">資料視覺化</a></td>
+ <td><a href="https://github.com/meishicui/Datavisualization">資料視覺化</a></td>
  <td>張 O 庭</td>
  </tr>
 
